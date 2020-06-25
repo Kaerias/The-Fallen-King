@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 24564e342248cf9469c469bf049203df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4702544020559098553
+    second: fox_0
+  - first:
+      213: -5901367661672369291
+    second: fox_1
+  - first:
+      213: 9004580969247211910
+    second: fox_2
+  - first:
+      213: -7766446191851538065
+    second: fox_3
+  - first:
+      213: -518540575409099132
+    second: fox_4
+  - first:
+      213: 6828139841380795637
+    second: fox_5
+  - first:
+      213: 8350769399510226399
+    second: fox_6
+  - first:
+      213: 876797013564865822
+    second: fox_7
+  - first:
+      213: -8582684187213119041
+    second: fox_8
+  - first:
+      213: 2713202255395975653
+    second: fox_9
+  - first:
+      213: 3084528926459011144
+    second: fox_10
+  - first:
+      213: -659956108281544565
+    second: fox_11
+  - first:
+      213: -2363303502268848809
+    second: fox_12
+  - first:
+      213: 7789191603653211356
+    second: fox_13
+  - first:
+      213: 870992961675665090
+    second: fox_14
+  - first:
+      213: -7741142416398388116
+    second: fox_15
+  - first:
+      213: 6186286740425068508
+    second: fox_16
+  - first:
+      213: 6590537597914649142
+    second: fox_17
+  - first:
+      213: 6678324051613599353
+    second: fox_18
+  - first:
+      213: 9036381713981873067
+    second: fox_19
+  - first:
+      213: -6327196716673147474
+    second: fox_20
+  - first:
+      213: -4255352083058202473
+    second: fox_21
+  - first:
+      213: -6927735187670477040
+    second: fox_22
+  - first:
+      213: 4084062304005393799
+    second: fox_23
+  - first:
+      213: 9021258888810772304
+    second: fox_24
+  - first:
+      213: 4962414321810190192
+    second: fox_25
+  - first:
+      213: 1336035963280750852
+    second: fox_26
+  - first:
+      213: 4023237933100159146
+    second: fox_27
+  - first:
+      213: 1504499021774408014
+    second: fox_28
+  - first:
+      213: 4996319116638614831
+    second: fox_29
+  - first:
+      213: -4409704209864293459
+    second: fox_30
+  - first:
+      213: 6014186119732528895
+    second: fox_31
+  - first:
+      213: 4298537134038573356
+    second: fox_32
+  - first:
+      213: -7139935527425747906
+    second: fox_33
+  - first:
+      213: -454996087023647025
+    second: fox_34
+  - first:
+      213: 5671241088009567672
+    second: fox_35
+  - first:
+      213: -5475960371606592816
+    second: fox_36
+  - first:
+      213: -4980340222957349771
+    second: fox_37
+  - first:
+      213: 8005104061786678823
+    second: fox_38
+  - first:
+      213: -7450206451753928464
+    second: fox_39
+  - first:
+      213: -3531245485992049566
+    second: fox_40
+  - first:
+      213: -5630715228795184024
+    second: fox_41
+  - first:
+      213: -1133522806446725971
+    second: fox_42
+  - first:
+      213: 6041237436939881283
+    second: fox_43
+  - first:
+      213: 6642111397363539231
+    second: fox_44
+  - first:
+      213: 7823693610043152341
+    second: fox_45
+  - first:
+      213: 7178838399575492425
+    second: fox_46
+  - first:
+      213: -4673570280569684750
+    second: fox_47
+  - first:
+      213: -779653538465187436
+    second: fox_48
+  - first:
+      213: 5217113692561118989
+    second: fox_49
+  - first:
+      213: -991498326909249729
+    second: fox_50
+  - first:
+      213: 4887935753255097974
+    second: fox_51
+  - first:
+      213: -1083428802579871780
+    second: fox_52
+  - first:
+      213: -8910328854183803101
+    second: fox_53
+  - first:
+      213: -528747788241454366
+    second: fox_54
+  - first:
+      213: 881408825370831948
+    second: fox_55
+  - first:
+      213: 2522331962305891941
+    second: fox_56
+  - first:
+      213: -422128626681749114
+    second: fox_57
+  - first:
+      213: -3850892280471574542
+    second: fox_58
+  - first:
+      213: 4630943265740793714
+    second: fox_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fox_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 375
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d00f1e0253dbeb0800000000000000
+      internalID: -4702544020559098553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 375
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737a05e0612a1ea0800000000000000
+      internalID: -5901367661672369291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 375
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6810937eea2b6fc70800000000000000
+      internalID: 9004580969247211910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 375
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f08f365a083490800000000000000
+      internalID: -7766446191851538065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 375
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e2d111816cdc8f0800000000000000
+      internalID: -518540575409099132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 297
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c13a320d62ce50800000000000000
+      internalID: 6828139841380795637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 297
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5520b4684e3e370800000000000000
+      internalID: 8350769399510226399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 220
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640eb890fe7efec0800000000000000
+      internalID: -3531245485992049566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da460f0630be440f0800000000000000
+      internalID: -1133522806446725971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79d1af2e7539c60800000000000000
+      internalID: 7823693610043152341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94781a24d7b50a360800000000000000
+      internalID: 7178838399575492425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc32d96794242fb0800000000000000
+      internalID: -4673570280569684750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 7
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079eed0349e66840800000000000000
+      internalID: 5217113692561118989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_55
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6f1228a46b3c00800000000000000
+      internalID: 881408825370831948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4bda4e8f110320800000000000000
+      internalID: 2522331962305891941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

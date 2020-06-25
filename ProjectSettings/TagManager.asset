@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IA
+  - End
+  - LootBox
+  - UIScore
+  - UIHearts
+  - Fire
+  - DeathArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 955521717
+    locked: 0
+  - name: MiddleBackGround
+    uniqueID: 422164609
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 1263167885
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2291438155
+    locked: 0
+  - name: Tree
+    uniqueID: 3010587335
+    locked: 0
+  - name: Box
+    uniqueID: 1486389119
+    locked: 0
